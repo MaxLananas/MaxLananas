@@ -41,7 +41,7 @@
   <img src="https://komarev.com/ghpvc/?username=maxlananas&style=flat-square&color=blue" alt="Profile views" />
 </p>
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=450&lines=Hi+I'm+Maxence!;Creative+Developer;Building+cool+stuff+since+day+one" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=450&lines=Hi+I'm+MaxLananas!;Creative+Developer;Building+cool+stuff+since+day+one" />
 </h1>
 
 <p align="center">
