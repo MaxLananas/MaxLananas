@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Maxence!</h1>
+<h1 align="center">Hey, I'm MaxLananas!</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Passionate+Developer;Creator+of+Original+Projects;Always+Learning" />
 </p>
