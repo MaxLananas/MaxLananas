@@ -5,10 +5,6 @@
 </h1>
 
 <p align="center">
-  <img src="https://github.com/maxlananas/maxlananas/assets/your-custom-banner.png" alt="Banner" style="border-radius: 12px;" />
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Age-15-blueviolet?style=for-the-badge&logo=counter-strike&logoColor=white" />
   <img src="https://img.shields.io/badge/Location-Saint--Martin-orange?style=for-the-badge&logo=world&logoColor=white" />
   <img src="https://img.shields.io/badge/Focus-Innovation-%23F7DF1E?style=for-the-badge&logo=vercel&logoColor=black" />
