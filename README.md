@@ -63,8 +63,8 @@
 ## 🌐 Let’s Connect!
 
 <p align="center">
-  <a href="mailto:maxlananas.dev@gmail.com"><img src="https://img.shields.io/badge/email-maxlananas.dev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://discord.com/users/1127152787692687480"><img src="https://img.shields.io/badge/Discord-MaxLananas%230001-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="mailto:maxlananas971@gmail.com"><img src="https://img.shields.io/badge/email-maxlananas.dev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://discord.com/users/1127152787692687480"><img src="https://img.shields.io/badge/Discord-MaxLananass%230001-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>
 
 ---
