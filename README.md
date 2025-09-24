@@ -15,13 +15,13 @@
 
 ## 🔥 About Me
 
-> 🍍 I'm **MaxLananas**, a passionate developer from Saint-Martin.  
+> 🍍 I'm **MaxLananas**, a passionate developer from Guadeloupe.  
 > I bring **code + creativity** together to craft things people love.  
 >  
 > 🚀 I build:  
-> • **Discord Bots** with personality  
-> • **Dynamic websites** & stunning UIs  
-> • **Creative tools** powered by code  
+> • **Discord Bots**  
+> • **Dynamic websites** 
+> • **Creative tools**
 >  
 > 🧠 My goal? Learn fast. Build smart. Inspire others.
 
