@@ -1,5 +1,3 @@
-<!-- MaxLananas - README SUPER STYLÉ 🍍 -->
-
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2000&pause=1000&color=00FFD9&center=true&vCenter=true&width=700&lines=Hey,+I'm+MaxLananas!;Creative+Tech+Explorer+%F0%9F%8C%8E;15yo+Dev+%7C+Always+Learning+%F0%9F%93%9A;Making+Ideas+Real+%E2%9C%A8" />
 </h1>
@@ -18,12 +16,13 @@
 > 🍍 I'm **MaxLananas**, a passionate developer from Guadeloupe.  
 > I bring **code + creativity** together to craft things people love.  
 >  
-> 🚀 I build:  
+> I build:  
 > • **Discord Bots**  
 > • **Dynamic websites** 
 > • **Creative tools**
->  
-> 🧠 My goal? Learn fast. Build smart. Inspire others.
+> • **Other...**
+>
+> My goal? Learn fast. Build smart. Inspire others.
 
 ---
 
