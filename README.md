@@ -50,10 +50,6 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxlananas&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maxlananas&theme=tokyonight&hide_border=true&date_format=j%2Fn%5B%2FY%5D" />
-</div>
-
 ---
 
 ## ✨ Fun Zone
