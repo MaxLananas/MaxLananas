@@ -52,14 +52,6 @@
 
 ---
 
-## ✨ Fun Zone
-
-> 💬 “Create what you can’t stop thinking about.”  
-> 🧩 Random Fact: I believe every good idea starts with *"what if..."*  
-> 🎮 Also into Minecraft scripting, UI animations, and digital art!
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=maxlananas&style=flat-square&color=blue" alt="Profile views" />
 </p>
