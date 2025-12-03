@@ -9,10 +9,8 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,python,lua,git,github,vscode,discord,figma,vercel,npm,bash&theme=dark&perline=9" />
 </p>
-
-<br>
 
 <br>
 
