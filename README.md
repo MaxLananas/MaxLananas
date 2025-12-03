@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Age-15-blueviolet?style=for-the-badge&logo=counter-strike&logoColor=white" />
+  <img src="https://img.shields.io/badge/Age-16-blueviolet?style=for-the-badge&logo=counter-strike&logoColor=white" />
   <img src="https://img.shields.io/badge/Location-Guadeloupe-orange?style=for-the-badge&logo=world&logoColor=white" />
   <img src="https://img.shields.io/badge/Focus-Innovation-%23F7DF1E?style=for-the-badge&logo=vercel&logoColor=black" />
   <img src="https://img.shields.io/badge/Website-Coming+Soon-brightgreen?style=for-the-badge&logo=googlechrome&logoColor=white" />
