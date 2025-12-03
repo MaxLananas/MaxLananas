@@ -14,10 +14,6 @@
 
 <br>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maxlananas&show_icons=true&hide_title=true&hide_border=true&theme=tokyonight&bg_color=00000000&icon_color=A78BFA&text_color=888888" height="150"/>
-</p>
-
 <br>
 
 <p align="center">
