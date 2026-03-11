@@ -1,15 +1,30 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=35&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Hey,+I'm+MaxLananas+%F0%9F%8D%8D" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=35&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hey,+I'm+MaxLananas+🍍;Student,+dev+%26+creator" />
 </h1>
 
 <p align="center">
-  <samp>16 y/o developer from Guadeloupe 🌴</samp>
+  <samp>Lycéen passionné de tech aux Antilles (Guadeloupe / Martinique) 🌴</samp>
 </p>
 
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,vue,angular,svelte,tailwind,bootstrap,nodejs,express,python,flask,django,lua,java,spring,c,cpp,cs,dotnet,go,rust,ruby,rails,php,laravel,swift,kotlin,dart,flutter,perl,haskell,elixir,scala,solidity,zig,r,matlab,fortran,latex,bash,powershell,regex,wasm,mysql,postgres,mongodb,redis,sqlite,firebase,supabase,graphql,docker,kubernetes,nginx,aws,gcp,azure,vercel,netlify,heroku,cloudflare,linux,ubuntu,debian,arch,windows,apple,git,github,gitlab,vscode,idea,vim,neovim,sublime,ps,ai,pr,ae,xd,figma,blender,unity,unreal,godot,discord,bots,electron,tauri,npm,pnpm,yarn,webpack,vite,gulp,jenkins,gradle,maven,postman,notion,obsidian,arduino,raspberrypi,tensorflow,pytorch,opencv&theme=dark&perline=12" />
+  <samp>🌐 J'aime coder en Python, bidouiller des serveurs Minecraft, faire du montage vidéo et jouer avec les cartes (OSM / SIG).</samp>
+</p>
+<p align="center">
+  <samp>🎓 Option NSI, curieux de géopolitique, d'histoire et d'actualités.</samp>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,bash,html,css,js,linux,ubuntu,windows,git,github,vscode,ps,pr,discord&theme=dark&perline=10" />
+</p>
+
+<br>
+
+<p align="center">
+  <samp>Actuellement : projets Minecraft (serveurs/modpacks), automatisation en Python, révisions du bac et expérimentations vidéo.</samp>
 </p>
 
 <br>
