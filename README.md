@@ -9,7 +9,7 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,js,html,css,react,nodejs,bash,git,github,vscode,idea,linux,ubuntu,windows,discord,ps,pr,ae,blender,figma,notion,obsidian,raspberrypi,arduino,docker,postman,minecraft,unity,unreal&theme=dark&perline=12" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,vue,angular,svelte,tailwind,bootstrap,nodejs,express,python,flask,django,lua,java,spring,c,cpp,cs,dotnet,go,rust,ruby,rails,php,laravel,swift,kotlin,dart,flutter,perl,haskell,elixir,scala,solidity,zig,r,matlab,fortran,latex,bash,powershell,regex,wasm,mysql,postgres,mongodb,redis,sqlite,firebase,supabase,graphql,docker,kubernetes,nginx,aws,gcp,azure,vercel,netlify,heroku,cloudflare,linux,ubuntu,debian,arch,windows,apple,git,github,gitlab,vscode,idea,vim,neovim,sublime,ps,ai,pr,ae,xd,figma,blender,unity,unreal,godot,discord,bots,electron,tauri,npm,pnpm,yarn,webpack,vite,gulp,jenkins,gradle,maven,postman,notion,obsidian,arduino,raspberrypi,tensorflow,pytorch,opencv&theme=dark&perline=12" />
 </p>
 
 <br>
