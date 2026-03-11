@@ -73,16 +73,15 @@
 <!-- ═══════════════════════════════════════════════════════ -->
 <!--                     GITHUB STATS                       -->
 <!-- ═══════════════════════════════════════════════════════ -->
-
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=maxlananas&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9" />
+  <img width="48%" src="https://github-readme-stats-two-pearl-68.vercel.app/api?username=maxlananas&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=maxlananas&theme=tokyonight&hide_border=true&background=0d1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" />
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxlananas&layout=compact&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9" />
+  <img width="40%" src="https://github-readme-stats-two-pearl-68.vercel.app/api/top-langs/?username=maxlananas&layout=compact&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9" />
 </p>
 
 <br>
