@@ -30,7 +30,6 @@
     🎓 Student & self-taught developer<br>
     🔭 Currently learning and building web & software projects<br>
     🌱 Always exploring new technologies<br>
-    ⚡ Fun fact: my username is a tribute to bananas 🍌
   </samp>
 </p>
 
@@ -44,27 +43,29 @@
 
 <h4 align="center">🌐 Frontend</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,vue,svelte,tailwind,bootstrap&theme=dark&perline=11" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,vue,angular,svelte,tailwind,bootstrap&theme=dark&perline=12" />
 </p>
 
-<h4 align="center">⚙️ Backend</h4>
+<h4 align="center">⚙️ Backend & Runtime</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,django,lua,java,php,go,rust&theme=dark&perline=10" />
+  <img src="https://skillicons.dev/icons?i=nodejs,bun,express,python,flask,django,lua,java,php,go,rust,prisma&theme=dark&perline=12" />
 </p>
 
 <h4 align="center">🗄️ Databases & BaaS</h4>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,sqlite,firebase,supabase,graphql&theme=dark&perline=8" />
+  <br>
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
 </p>
 
 <h4 align="center">☁️ DevOps & Cloud</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,aws,gcp,vercel,netlify,cloudflare,linux,bash&theme=dark&perline=10" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,aws,gcp,vercel,netlify,cloudflare,linux,bash,githubactions&theme=dark&perline=11" />
 </p>
 
 <h4 align="center">🧰 Tools & Others</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vim,figma,blender,discord,electron,npm,vite&theme=dark&perline=10" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vim,figma,blender,discord,electron,npm,pnpm,vite,postman&theme=dark&perline=12" />
 </p>
 
 <br>
@@ -76,12 +77,12 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=maxlananas&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=maxlananas&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=maxlananas&theme=tokyonight&hide_border=true&background=0d1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" />
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxlananas&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxlananas&layout=compact&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9" />
 </p>
 
 <br>
