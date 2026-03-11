@@ -83,18 +83,6 @@
 <br>
 
 <!-- ═══════════════════════════════════════════════════════ -->
-<!--                       TROPHIES                         -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
-<h2 align="center">🏆 GitHub Trophies</h2>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=maxlananas&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" />
-</p>
-
-<br>
-
-<!-- ═══════════════════════════════════════════════════════ -->
 <!--                     GITHUB STATS                       -->
 <!-- ═══════════════════════════════════════════════════════ -->
 
