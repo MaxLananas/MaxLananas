@@ -9,7 +9,7 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,js,html,css,react,nodejs,bash,git,github,vscode,idea,linux,ubuntu,windows,firefox,discord,ps,pr,ae,blender,figma,notion,obsidian,raspberrypi,arduino,docker,postman,roblox,unity,unreal&theme=dark&perline=12" />
+  <img src="https://skillicons.dev/icons?i=python,ts,js,html,css,react,nodejs,bash,git,github,vscode,idea,linux,ubuntu,windows,firefox,discord,ps,pr,ae,blender,figma,notion,obsidian,raspberrypi,arduino,docker,postman,unity,unreal&theme=dark&perline=12" />
 </p>
 
 <br>
