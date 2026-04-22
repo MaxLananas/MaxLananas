@@ -110,7 +110,7 @@
 <h2 align="center">◈ GitHub Stats</h2>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats-two-pearl-68.vercel.app/api?username=maxlananas&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=18&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9&rank_icon=github" />
+  <img width="48%" src="https://github-readme-stats-two-pearl-68.vercel.app/api?username=maxlananas&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=1800&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9&rank_icon=github" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=maxlananas&theme=tokyonight&hide_border=true&background=0d1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=555555" />
 </p>
 
