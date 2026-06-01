@@ -120,14 +120,6 @@
 
 <br>
 
-<h2 align="center">◈ Activity</h2>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maxlananas&bg_color=0d1117&color=A78BFA&line=A78BFA&point=FFFFFF&area=true&hide_border=true&area_color=A78BFA" />
-</p>
-
-<br>
-
 <p align="center">
   <samp>
     <i>"L'avenir n'appartient pas a ce qui dort mais a ce qui ce nomme Max, a méditer"</i>
