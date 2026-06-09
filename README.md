@@ -24,7 +24,7 @@
     ◦ Passionné de systèmes bas-niveau — kernels, bootloaders, x86 Assembly<br>
     ◦ Développeur civic tech : <strong>GwadloupAlert</strong>, plateforme de signalement citoyenne pour la Guadeloupe<br>
     ◦ Contributeur <strong>BuildTheEarth</strong> — reconstruction du monde en Minecraft à l'échelle 1:1<br>
-    ◦ Travaux sur l'alignement de tuiles IGN par SIFT feature matching &amp; homographie<br>
+    ◦ Un peu de tout...
     ◦ Élève en Première · autodidacte · Guadeloupe 🌴
   </samp>
 </p>
