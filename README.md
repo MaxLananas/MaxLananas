@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=A78BFA&height=120&section=header" />
 </p>
 <p align="center">
-  <samp>16 y/o · Guadeloupe · civic tech · geospatial · OSM · low-level systems · BuildTheEarth</samp>
+  <samp>16 y/o</samp>
 </p>
 
 <p align="center">
