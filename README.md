@@ -62,7 +62,7 @@
   <img src="https://img.shields.io/badge/GDAL_%2F_PROJ-5C8DBA?style=for-the-badge&logoColor=white" />
 </p>
 
-<h4 align="center">— Tools —</h4>
+<h4 align="center">>— Tools</h4>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash,docker,postman&theme=dark&perline=7" />
 </p>
