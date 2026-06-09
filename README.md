@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=A78BFA&height=120&section=header" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=A78BFA&height=200&text=MaxLananas&fontSize=70&fontColor=fff&animation=fadeIn" />
 </p>
 <p align="center">
   <samp>16 y/o</samp>
