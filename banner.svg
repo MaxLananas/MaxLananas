@@ -15,7 +15,7 @@
   <text x="110" y="255" font-family="monospace" font-size="72" font-weight="bold" fill="#ffffff">MaxLananas</text>
 
   <!-- Subtitle -->
-  <text x="112" y="305" font-family="monospace" font-size="28" fill="#EAB308">kernel hacker · civic tech · 16 y/o · Guadeloupe 🌴</text>
+  <text x="112" y="305" font-family="monospace" font-size="28" fill="#EAB308">I like pineapple pizza · 16 y/o · Guadeloupe 🌴</text>
 
   <!-- Decorative dots -->
   <circle cx="1380" cy="100" r="60" fill="#EAB308" opacity="0.07" />
