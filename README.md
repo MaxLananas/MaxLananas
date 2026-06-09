@@ -36,11 +36,26 @@
 <h4 align="center">>— Systems & Low-level</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/x86_Assembly-6E4C13?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/QEMU-FF6600?style=for-the-badge&logo=qemu&logoColor=white" />
-  <img src="https://img.shields.io/badge/NASM-grey?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Make-427819?style=for-the-badge&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=cpp,csharp,dart,rust,ruby,java,python,javascript,typescript,bash,powershell,markdown&theme=dark" />
+  <img src="https://img.shields.io/badge/x86_Assembly-6E4C13?style=for-the-badge" />
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu&theme=dark" />
+  <img src="https://img.shields.io/badge/QEMU-FF6600?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NASM-grey?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Make-427819?style=for-the-badge" />
+</p>
+
+<h4 align="center">>— Cloud & DevOps</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,cloudflare,vercel,netlify,render,vercel&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=docker,nginx,apache&theme=dark" />
+  <img src="https://img.shields.io/badge/OVH-123F6D?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge" />
+</p>
+
+<h4 align="center">>— Frameworks & Libraries</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,angular,express,django,flask,fastapi,fastify,electron,flutter&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=jquery,redux&theme=dark" />
 </p>
 
 <h4 align="center">>— Web & Backend</h4>
@@ -48,9 +63,9 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,python,flask,express&theme=dark&perline=11" />
 </p>
 
-<h4 align="center">>— Databases & BaaS</h4>
+<h4 align="center">>— Databases</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,sqlite,supabase,firebase&theme=dark&perline=6" />
+  <img src="https://skillicons.dev/icons?i=postgres,sqlite,redis,mysql,mariadb,mongodb,supabase,firebase&theme=dark" />
 </p>
 
 <h4 align="center">>— Geospatial</h4>
@@ -62,9 +77,15 @@
   <img src="https://img.shields.io/badge/GDAL_%2F_PROJ-5C8DBA?style=for-the-badge&logoColor=white" />
 </p>
 
-<h4 align="center">>— Tools</h4>
+<h4 align="center">>— Tools & Design</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash,docker,postman&theme=dark&perline=7" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&theme=dark" />
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge" />
 </p>
 
 <br>
