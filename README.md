@@ -31,39 +31,6 @@
 
 <br>
 
-<h2 align="center">Featured Projects</h2>
-
-<table align="center" border="0" cellspacing="0" cellpadding="8">
-  <tr>
-    <td align="center">
-      <a href="https://github.com/MaxLananas/MaxOS">
-        <img src="https://img.shields.io/badge/MaxOS-OS_from_scratch_%7C_C_+_x86_ASM-A78BFA?style=for-the-badge&labelColor=1a1b27" />
-      </a>
-      <br><sub>Noyau minimaliste · bootloader MBR · drivers VGA/clavier · terminal</sub>
-    </td>
-    <td align="center">
-      <a href="https://github.com/MaxLananas/PineappleUI">
-        <img src="https://img.shields.io/badge/PineappleUI-HTML%2FCSS_→_Java_Swing_converter-A78BFA?style=for-the-badge&labelColor=1a1b27" />
-      </a>
-      <br><sub>Transpileur · syntaxe .pineui · roadmap JavaFX + Android XML</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://gwadloup.onrender.com">
-        <img src="https://img.shields.io/badge/GwadloupAlert-Civic_reporting_·_Guadeloupe-A78BFA?style=for-the-badge&labelColor=1a1b27" />
-      </a>
-      <br><sub>Supabase · Leaflet.js · Brevo SMTP · JavaScript</sub>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/GwadaBot-OSM_import_%7C_IGN_BD_TOPO®-A78BFA?style=for-the-badge&labelColor=1a1b27" />
-      <br><sub>OAuth2 OSM · WFS · bâtiments + hydrographie</sub>
-    </td>
-  </tr>
-</table>
-
-<br>
-
 <h2 align="center">Tech Stack</h2>
 
 <h4 align="center">— Systems & Low-level —</h4>
