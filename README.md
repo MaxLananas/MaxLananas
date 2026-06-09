@@ -18,7 +18,7 @@
 <h2 align="center">About Me</h2>
 
 <p align="center">
-  <img width="100%" src="./banner.svg" />
+  <img width="100%" src="./bannser.svg" />
 </p>
 
 <p align="center">
