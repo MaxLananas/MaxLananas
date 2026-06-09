@@ -33,7 +33,7 @@
 
 <h2 align="center">Tech Stack</h2>
 
-<h4 align="center">— Systems & Low-level —</h4>
+<h4 align="center">>— Systems & Low-level</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/x86_Assembly-6E4C13?style=for-the-badge&logoColor=white" />
@@ -43,17 +43,17 @@
   <img src="https://img.shields.io/badge/Make-427819?style=for-the-badge&logoColor=white" />
 </p>
 
-<h4 align="center">— Web & Backend —</h4>
+<h4 align="center">>— Web & Backend</h4>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,python,flask,express&theme=dark&perline=11" />
 </p>
 
-<h4 align="center">— Databases & BaaS —</h4>
+<h4 align="center">>— Databases & BaaS</h4>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=postgres,sqlite,supabase,firebase&theme=dark&perline=6" />
 </p>
 
-<h4 align="center">— Geospatial —</h4>
+<h4 align="center">>— Geospatial</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=for-the-badge&logo=openstreetmap&logoColor=white" />
   <img src="https://img.shields.io/badge/IGN_BD_TOPO®-003189?style=for-the-badge&logoColor=white" />
