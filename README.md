@@ -27,7 +27,7 @@
   </samp>
 </p>
 
-<h2 align="center">Tech Stack</h2>
+<h2 align="center">My Skills</h2>
 
 <h4 align="center">>— Systems & Low-level</h4>
 <p align="center">
