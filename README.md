@@ -1,11 +1,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=A78BFA&height=120&section=header" />
 </p>
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=35&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Hey,+I'm+MaxLananas+%F0%9F%8D%8D;Civic+tech+%26+geospatial+dev+%F0%9F%97%BA%EF%B8%8F;Kernel+%26+low-level+enjoyer+%E2%9A%99%EF%B8%8F;Building+tools+that+matter+%F0%9F%9A%80" />
-</h1>
-
 <p align="center">
   <samp>16 y/o · Guadeloupe · civic tech · geospatial · OSM · low-level systems · BuildTheEarth</samp>
 </p>
@@ -119,12 +114,6 @@
 </p>
 
 <br>
-
-<p align="center">
-  <samp>
-    <i>"L'avenir n'appartient pas a ce qui dort mais a ce qui ce nomme Max, a méditer"</i>
-  </samp>
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=A78BFA&height=120&section=footer" />
