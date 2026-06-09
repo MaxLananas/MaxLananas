@@ -18,6 +18,10 @@
 <h2 align="center">About Me</h2>
 
 <p align="center">
+  <img width="100%" src="./banner.svg" />
+</p>
+
+<p align="center">
   <samp>
     ◦ Passionné de systèmes bas-niveau — kernels, bootloaders, x86 Assembly<br>
     ◦ Développeur civic tech : <strong>GwadloupAlert</strong>, plateforme de signalement citoyenne pour la Guadeloupe<br>
