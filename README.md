@@ -6,9 +6,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/maxlananas?tab=followers">
-    <img src="https://img.shields.io/github/followers/maxlananas?style=flat-square&color=EAB308&labelColor=1a1b27&logo=github" />
-  </a>
   <a href="https://github.com/maxlananas?tab=repositories">
     <img src="https://img.shields.io/github/stars/maxlananas?style=flat-square&color=EAB308&labelColor=1a1b27&logo=github&label=total%20stars" />
   </a>
