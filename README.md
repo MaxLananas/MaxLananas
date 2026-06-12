@@ -12,18 +12,6 @@
   <img src="https://komarev.com/ghpvc/?username=maxlananas&style=flat-square&color=EAB308&label=visitors" />
 </p>
 
-<h2 align="center">About Me</h2>
-
-<p align="center">
-  <samp>
-    ◦ Passionné de systèmes bas-niveau — kernels, bootloaders, x86 Assembly<br>
-    ◦ Développeur civic tech : <strong>GwadloupAlert</strong>, plateforme de signalement citoyenne pour la Guadeloupe<br>
-    ◦ Contributeur <strong>BuildTheEarth</strong> — reconstruction du monde en Minecraft à l'échelle 1:1<br>
-    ◦ Un peu de tout...<br>
-    ◦ Élève en Première · autodidacte · Guadeloupe 🌴
-  </samp>
-</p>
-
 <h2 align="center">My Skills</h2>
 
 <h4 align="center">>— Systems & Low-level</h4>
