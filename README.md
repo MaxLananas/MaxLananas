@@ -1,9 +1,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=EAB308&height=200&text=MaxLananas&fontSize=70&fontColor=fff&animation=fadeIn" />
 </p>
-<p align="center">
-  <samp>16 y/o</samp>
-</p>
 
 <p align="center">
   <a href="https://github.com/maxlananas?tab=repositories">
