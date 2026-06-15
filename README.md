@@ -14,51 +14,7 @@
 
 <!-- Languages -->
 <p align="center">
-  <img src="https://img.shields.io/badge/C-EAB308?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://skillicons.dev/icons?i=cpp,csharp,rust,java,python,javascript,typescript,dart,ruby,bash&theme=dark" />
-</p>
-
-<!-- Low-level / OS Development -->
-<p align="center">
-  <img src="https://img.shields.io/badge/x86_Assembly-EAB308?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/NASM-EAB308?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/QEMU-EAB308?style=for-the-badge" />
-  <img src="https://skillicons.dev/icons?i=linux&theme=dark" />
-</p>
-
-<!-- Infrastructure -->
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cloudflare,docker,nginx&theme=dark" />
-</p>
-
-<!-- Frontend -->
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,vue,nuxtjs,angular,jquery&theme=dark" />
-</p>
-
-<!-- Backend -->
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,electron,python&theme=dark" />
-</p>
-
-<!-- Databases -->
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,sqlite,mysql,mariadb,mongodb,redis&theme=dark" />
-</p>
-
-<!-- GIS -->
-<p align="center">
-  <img src="https://img.shields.io/badge/OpenStreetMap-EAB308?style=for-the-badge&logo=openstreetmap&logoColor=white" />
-  <img src="https://img.shields.io/badge/IGN_BD_TOPO®-EAB308?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Leaflet.js-EAB308?style=for-the-badge&logo=leaflet&logoColor=white" />
-</p>
-
-<!-- Tools -->
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,figma&theme=dark" />
-  <img src="https://img.shields.io/badge/Adobe%20Illustrator-EAB308?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-EAB308?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Blender-EAB308?style=for-the-badge" />
+  <img src="https://skillicons.dev/icons?i=git,figma,postgres,sqlite,mysql,mongodb,redis,nodejs,express,django,electron,python,cpp,c,rust,java,python,javascript,typescript,linux,dart,cloudflare,docker,nginx,ruby,html,css,javascript,typescript,react,nextjs,vue,nuxtjs,angular,jquery,bash&theme=dark" />
 </p>
 
 <h2 align="center">GitHub Stats</h2>
