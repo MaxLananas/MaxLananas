@@ -11,10 +11,8 @@
 </p>
 
 <h2 align="center">My Skills</h2>
-
-<!-- Languages -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,figma,postgres,sqlite,mysql,mongodb,redis,nodejs,express,django,electron,python,cpp,c,rust,java,python,javascript,typescript,linux,dart,cloudflare,docker,nginx,ruby,html,css,javascript,typescript,react,nextjs,vue,nuxtjs,angular,jquery,bash&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=rust,rails,ruby,laravel,html,npm,git,java,firebase,javascript,jquery,cloudflare,aws,webpack,vite,yarn,pnpm,bash,linux,python,nodejs,express,fastapi,flask,django,mongodb,nginx,vue,nuxtjs,tailwind,react,nextjs,electron,flutter,dart,go,graphql,prisma,supabase,postgres,mysql,sqlite,redis,docker,kubernetes,vercel,netlify,azure,gcp,css,bootstrap,php,kotlin,swift,c,cpp,cs,figma,vscode,neovim,postman,github,gitlab,githubactions,jest,vitest,typescript&theme=dark&perline=22" />
 </p>
 
 <h2 align="center">GitHub Stats</h2>
