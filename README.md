@@ -25,5 +25,3 @@
 <p align="center">
   <img width="40%" src="https://github-readme-stats-two-pearl-68.vercel.app/api/top-langs/?username=maxlananas&layout=compact&include_all_commits=true&count_private=true&cache_seconds=1800&langs_count=100&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=EAB308&text_color=c9d1d9" />
 </p>
-
-![](https://count.getloli.com/@MaxLananas?theme=moebooru)
